@@ -53,6 +53,8 @@ p {
     font-size: 16px;
 }
 
+/* Targets the main hero image*/
+
 .hero {
     height: 800px;
     width: 100%;
@@ -72,11 +74,15 @@ p {
     margin-left: 25px;
 }
 
+/* Targets the main sections on the left */
+
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+/* Targets the aside sections on the right */
 
 aside {
     margin-right: 20px;
